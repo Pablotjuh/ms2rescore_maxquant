@@ -36,7 +36,7 @@
         ]
     },
     "maxquant_to_rescore": {
-        "mgf_title_pattern": "TITLE=.*scan=([0-9]+).*$",
+        "mgf_title_pattern": "TITLE=scan,
         "modification_mapping":{
             "Oxidation (M)":"Oxidation",
             "Deamidation (NQ)":"Deamidated",
