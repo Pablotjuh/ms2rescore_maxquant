@@ -3,7 +3,6 @@
         "maxquant_to_rescore": {
         "modification_mapping":{
             "Oxidation (M)":"Oxidation",
-            "cm":"Carbamidomethyl",
             "Deamidation (NQ)":"Deamidated",
         },
         "fixed_modifications":{
