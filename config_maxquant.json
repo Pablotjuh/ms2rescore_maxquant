@@ -15,7 +15,7 @@
         "plotting": false
     },
     "ms2pip": {
-        "model": "CID",
+        "model": "CIDch2",
         "frag_error": 0.02,
         "modifications": [
             {"name":"Acetyl", "unimod_accession":1, "mass_shift":42.010565, "amino_acid":null, "n_term":true, "c_term": false},
@@ -39,9 +39,7 @@
         "mgf_title_pattern": "TITLE=.*scan=([0-9]+).*$",
         "modification_mapping":{
             "Oxidation (M)":"Oxidation",
-            "ac":"Acetyl"
             "Deamidation (NQ)":"Deamidated",
-            "gl":"Gln->pyro-Glu"
         },
         "fixed_modifications":
             "Carbamidomethyl (C)":"Carbamidomethyl",
