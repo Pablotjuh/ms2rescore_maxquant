@@ -1,0 +1,7 @@
+    "maxquant_to_rescore": {
+        "modification_mapping":{
+            "Oxidation(M)":"Oxidation",
+        },
+        "fixed_modifications":{
+            "Carbamydomethyl(C)":"Carbamidomethyl"
+        }
