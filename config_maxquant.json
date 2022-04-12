@@ -15,7 +15,7 @@
         "plotting": false
     },
     "ms2pip": {
-        "model": "CIDch2",
+        "model": "CID",
         "frag_error": 0.02,
         "modifications": [
             {"name":"Acetyl", "unimod_accession":1, "mass_shift":42.010565, "amino_acid":null, "n_term":true, "c_term": false},
@@ -41,7 +41,7 @@
             "Oxidation(M)":"Oxidation"
         },
         "fixed_modifications":
-            "Carbamidomethyl(C)":"Carbamidomethyl",
+            "C":"Carbamidomethyl",
         }
     },
     "percolator": {}
