@@ -1,5 +1,4 @@
 {
-    "$schema": "./config_schema.json",
     "maxquant_to_rescore": {
         "modification_mapping":{
             "Oxidation (M)":"Oxidation",
