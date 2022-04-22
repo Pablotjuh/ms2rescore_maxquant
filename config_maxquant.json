@@ -5,5 +5,5 @@
             "Carbamidomethyl (C)":"Carbamidomethyl"
         },
         "fixed_modifications":{
-            "Carbamidomethyl (C)":"Carbamidomethyl"
+            "C":"Carbamidomethyl"
 }
